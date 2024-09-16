@@ -1,0 +1,11 @@
+{
+	"name": "salesanalysis",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "823d2a21-bd13-40e3-8f24-d9c409aacc84",
+			"tenantID": "ac79e5a8-e0e4-434b-a292-2c89b5c28366"
+		}
+	}
+}
