@@ -1,0 +1,2 @@
+# AzureSynapse-PowerBI
+AzureSynapse-PowerBI
